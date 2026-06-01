@@ -36,6 +36,7 @@ CS undergrad at Bennett University (2024–28), building at the crossroads of AI
 | [NABHA Telemedicine](https://github.com/shaauryaa) | React, Python, Scikit-learn | Top 100 @ SIH · 100+ rural users |
 | [CivicFix](https://github.com/shaauryaa/Civic-Fix) | React 18, Tailwind, Scikit-learn | 3 AI modules · 75+ govt letters generated |
 | [F1 Strategy Optimizer](https://github.com/shaauryaa/F1-Strategy-Optimizer) | Python, Scikit-learn, Streamlit | 1.2s RMSE · 30s race time reduction |
+| [DSA Practice](https://github.com/shaauryaa/dsa-practice) | C++ | Striver's SDE Sheet — arrays, trees, DP, graphs & more |
 
 ---
 
