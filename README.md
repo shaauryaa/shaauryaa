@@ -8,6 +8,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/shaurya-nigam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   &nbsp;
+  <a href="https://leetcode.com/shauryaanigam"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+  &nbsp;
   <a href="mailto:shnigam_10@bennett.edu"><img src="https://img.shields.io/badge/College%20Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:shauryanigam2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
