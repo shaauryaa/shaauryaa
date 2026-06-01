@@ -8,10 +8,16 @@
 <p align="center">
   <a href="https://linkedin.com/in/shaurya-nigam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:shnigam_10@bennett.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:shnigam_10@bennett.edu"><img src="https://img.shields.io/badge/College%20Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:shauryanigam2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://github.com/shaauryaa/resume/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-4285F4?style=flat&logo=googledrive&logoColor=white"/></a>
 </p>
+
+---
+
+CS undergrad at Bennett University (2024–28), building at the crossroads of AI/ML and full-stack development. I've shipped everything from a telemedicine platform (SIH Top 100) to an F1 race strategy tool — mostly driven by curiosity and a preference for projects that actually do something. Currently Multimedia Head at GeeksforGeeks. Open to collaborating on anything interesting.
 
 ---
 
