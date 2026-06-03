@@ -19,7 +19,7 @@
 
 ---
 
-CS undergrad at Bennett University (2024–28), building at the crossroads of AI/ML and full-stack development. I've shipped everything from a telemedicine platform (SIH Top 100) to an F1 race strategy tool — mostly driven by curiosity and a preference for projects that actually do something. Currently Multimedia Head at GeeksforGeeks. Open to collaborating on anything interesting.
+CS undergrad at Bennett University (2024–28), building at the crossroads of AI/ML and full-stack development. I've shipped everything from a telemedicine platform (SIH Top 100) to a live F1 race strategy engine — trained on 215k real race laps, deployed on Render + Vercel, with Monte Carlo safety-car simulation. Mostly driven by curiosity and a preference for projects that actually do something. Currently Multimedia Head at GeeksforGeeks. Open to collaborating on anything interesting.
 
 ---
 
@@ -37,7 +37,7 @@ CS undergrad at Bennett University (2024–28), building at the crossroads of AI
 |---|---|---|
 | [NABHA Telemedicine](https://github.com/shaauryaa/nabha-telemedicine-platform) | React, Python, Scikit-learn | Top 100 @ SIH · 100+ rural users |
 | [CivicFix](https://github.com/shaauryaa/Civic-Fix) | React 18, Tailwind, Scikit-learn | 3 AI modules · 75+ govt letters generated |
-| [F1 Strategy Optimizer](https://github.com/shaauryaa/F1-Strategy-Optimizer) | Python, Scikit-learn, Streamlit | 1.2s RMSE · 30s race time reduction |
+| [PITWALL — F1 Strategy Optimizer](https://github.com/shaauryaa/F1-Strategy-Optimizer) | FastAPI, Next.js, scikit-learn | [Live](https://f1-strategy-optimizer.vercel.app) · 215k real laps · MAE 2.6s · Monte Carlo SC simulation |
 | [DSA Practice](https://github.com/shaauryaa/dsa-practice) | C++ | Striver's SDE Sheet — arrays, trees, DP, graphs & more |
 
 ---
