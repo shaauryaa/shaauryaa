@@ -17,6 +17,8 @@
 
 CS undergrad at Bennett University (2024–28), building at the crossroads of AI/ML and full-stack development. I've shipped everything from a telemedicine platform (SIH Top 100) to a live F1 race strategy engine — trained on 215k real race laps, deployed on Render + Vercel, with Monte Carlo safety-car simulation. Mostly driven by curiosity and a preference for projects that actually do something. Currently Multimedia Head at GeeksforGeeks. Open to collaborating on anything interesting.
 
+🔭 **Currently:** Grinding Striver's DSA sheet in C++ · Multimedia Head @ GeeksforGeeks BU · Open to collabs & summer projects
+
 ---
 
 ### What I build
@@ -63,3 +65,8 @@ SQL · MongoDB · AWS · Git · Figma · Linux
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/shauryaanigam?theme=dark&hide_border=true&ext=contest" />
 </p>
+
+---
+
+*Feel free to reach out if you're building something interesting — always up for a good collab.*  
+📬 [shauryanigam2006@gmail.com](mailto:shauryanigam2006@gmail.com)
