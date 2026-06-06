@@ -56,8 +56,5 @@ SQL · MongoDB · AWS · Git · Figma · Linux
 
 ---
 
-
----
-
 *Feel free to reach out if you're building something interesting — always up for a good collab.*  
 📬 [shauryanigam2006@gmail.com](mailto:shauryanigam2006@gmail.com)
