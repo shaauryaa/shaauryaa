@@ -56,12 +56,6 @@ SQL · MongoDB · AWS · Git · Figma · Linux
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaauryaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaauryaa&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
-
 
 ---
 
