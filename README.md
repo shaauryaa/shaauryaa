@@ -26,6 +26,7 @@ CS undergrad at Bennett University (2024–28), building at the crossroads of AI
 - **AI-powered full-stack apps** — from telemedicine platforms to civic tech, integrating ML modules into real products used by real people
 - **Predictive ML models** — Gradient Boosting, feature engineering, dynamic programming optimizations
 - **Dashboards & data tools** — Streamlit, React, real-time analytics
+- **Research & surveys** — systematic literature reviews covering AI model families and their clinical/scientific applications
 
 ---
 
@@ -36,6 +37,7 @@ CS undergrad at Bennett University (2024–28), building at the crossroads of AI
 | [NABHA Telemedicine](https://github.com/shaauryaa/nabha-telemedicine-platform) | React, Python, Scikit-learn | Top 100 @ SIH · 100+ rural users |
 | [CivicFix](https://github.com/shaauryaa/Civic-Fix) | React 18, Tailwind, Scikit-learn | 3 AI modules · 75+ govt letters generated |
 | [PITWALL — F1 Strategy Optimizer](https://github.com/shaauryaa/F1-Strategy-Optimizer) | FastAPI, Next.js, scikit-learn | [Live](https://f1-strategy-optimizer.vercel.app) · 215k real laps · MAE 2.6s · Monte Carlo SC simulation |
+| [AI in Cancer Genomics — Survey](https://github.com/shaauryaa/ai-cancer-genomics-survey) | SVM · GNN · Transformers · GenAI | Survey of 8 AI model families · 52 studies · precision medicine & biomarker discovery |
 | [DSA Practice](https://github.com/shaauryaa/dsa-practice) | C++ | Striver's SDE Sheet — arrays, trees, DP, graphs & more |
 
 ---
